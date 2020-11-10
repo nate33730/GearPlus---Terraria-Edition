@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld2",
+    "textures": {
+        "layer0": "item/iron_axe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1007001}, "model": "item/iron_axe/battleaxe_iron"},
+		{"predicate": {"custom_model_data":1007011}, "model": "item/iron_axe/dwarven_war_axe"},
+		{"predicate": {"custom_model_data":1007021}, "model": "item/iron_axe/hatchet"},
+		{"predicate": {"custom_model_data":1007031}, "model": "item/iron_axe/iron_mace"},
+		{"predicate": {"custom_model_data":1007041}, "model": "item/iron_axe/iron_war_axe"},
+		{"predicate": {"custom_model_data":1007051}, "model": "item/iron_axe/pitchfork_iron"},
+		{"predicate": {"custom_model_data":1007061}, "model": "item/iron_axe/ancient_nords_war_axe"}
+	]
+}

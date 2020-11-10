@@ -1,0 +1,78 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "item/shield"
+},
+"display": {
+"thirdperson_righthand": {
+"rotation": [ 0, 90, 0 ],
+"translation": [ 2.5, -2, 3 ],
+"scale": [ 2, 2, 1 ]
+},
+"thirdperson_lefthand": {
+"rotation": [ 0, 90, 0 ],
+"translation": [ 2.5, -2, 3 ],
+"scale": [ 2, 2, 1 ]
+},
+"firstperson_righthand": {
+"rotation": [ 0, 180, 5 ],
+"translation": [ 0, -8, -3 ],
+"scale": [ 1.8, 1.8, 0.7 ]
+},
+"firstperson_lefthand": {
+"rotation": [ 0, 180, 5 ],
+"translation": [ 0, -8, -3 ],
+"scale": [ 1.8, 1.8, 0 ]
+},
+"gui": {
+"rotation": [ 15, -25, -5 ],
+"translation": [ 0, 0, -10 ],
+"scale": [ 1.5, 1.5, 0.5 ]
+},
+"fixed": {
+"rotation": [ 0, 180, 0 ],
+"translation": [ 0, 0, 0 ],
+"scale": [ 2.5, 2.5, 2.5 ]
+},
+"ground": {
+"rotation": [ 0, 0, 0 ],
+"translation": [ 0, 2, 0 ],
+"scale":[ 1.5, 1.5, 0.5 ]
+}
+},
+"overrides": 
+[
+{"predicate": {"blocking": 1}, "model": "item/shield_blocking"},
+
+{"predicate": {"custom_model_data":1013001}, "model": "item/shield/celtic_shield"},
+{"predicate": {"custom_model_data":1013001, "blocking": 1}, "model": "item/shield/celtic_shield_blocking"},
+{"predicate": {"custom_model_data":1013011}, "model": "item/shield/deku_shield"},
+{"predicate": {"custom_model_data":1013011, "blocking": 1}, "model": "item/shield/deku_shield_blocking"},
+{"predicate": {"custom_model_data":1013021}, "model": "item/shield/fell_barrier"},
+{"predicate": {"custom_model_data":1013021, "blocking": 1}, "model": "item/shield/fell_barrier_blocking"},
+{"predicate": {"custom_model_data":1013031}, "model": "item/shield/hylian_shield"},
+{"predicate": {"custom_model_data":1013031, "blocking": 1}, "model": "item/shield/hylian_shield_blocking"},
+{"predicate": {"custom_model_data":1013041}, "model": "item/shield/iron_shield"},
+{"predicate": {"custom_model_data":1013041, "blocking": 1}, "model": "item/shield/iron_shield_blocking"},
+{"predicate": {"custom_model_data":1013051}, "model": "item/shield/leather_shield"},
+{"predicate": {"custom_model_data":1013051, "blocking": 1}, "model": "item/shield/leather_shield_blocking"},
+{"predicate": {"custom_model_data":1013061}, "model": "item/shield/mayan_shield"},
+{"predicate": {"custom_model_data":1013061, "blocking": 1}, "model": "item/shield/mayan_shield_blocking"},
+{"predicate": {"custom_model_data":1013071}, "model": "item/shield/mirror_shield"},
+{"predicate": {"custom_model_data":1013071, "blocking": 1}, "model": "item/shield/mirror_shield_blocking"},
+{"predicate": {"custom_model_data":1013081}, "model": "item/shield/northern_shield"},
+{"predicate": {"custom_model_data":1013081, "blocking": 1}, "model": "item/shield/northern_shield_blocking"},
+{"predicate": {"custom_model_data":1013091}, "model": "item/shield/paladin_shield"},
+{"predicate": {"custom_model_data":1013091, "blocking": 1}, "model": "item/shield/paladin_shield_blocking"},
+{"predicate": {"custom_model_data":1013101}, "model": "item/shield/skull_shield"},
+{"predicate": {"custom_model_data":1013101, "blocking": 1}, "model": "item/shield/skull_shield_blocking"},
+{"predicate": {"custom_model_data":1013111}, "model": "item/shield/sorcerers_shield"},
+{"predicate": {"custom_model_data":1013111, "blocking": 1}, "model": "item/shield/sorcerers_shield_blocking"},
+{"predicate": {"custom_model_data":1013121}, "model": "item/shield/steel_shield"},
+{"predicate": {"custom_model_data":1013121, "blocking": 1}, "model": "item/shield/steel_shield_blocking"},
+{"predicate": {"custom_model_data":1013131}, "model": "item/shield/stone_shield"},
+{"predicate": {"custom_model_data":1013131, "blocking": 1}, "model": "item/shield/stone_shield_blocking"},
+{"predicate": {"custom_model_data":1013141}, "model": "item/shield/sunward_shield"},
+{"predicate": {"custom_model_data":1013141, "blocking": 1}, "model": "item/shield/sunward_shield_blocking"}
+]
+}

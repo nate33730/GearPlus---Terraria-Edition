@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld2",
+    "textures": {
+        "layer0": "item/stone_axe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1009001}, "model": "item/stone_axe/pitchfork_stone"},
+		{"predicate": {"custom_model_data":1009011}, "model": "item/stone_axe/stone_mace"}
+	]
+}

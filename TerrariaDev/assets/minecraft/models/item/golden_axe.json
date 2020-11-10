@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld2",
+    "textures": {
+        "layer0": "item/golden_axe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1006001}, "model": "item/golden_axe/battleaxe_gold"},
+		{"predicate": {"custom_model_data":1006011}, "model": "item/golden_axe/dwarven_battleaxe"},
+		{"predicate": {"custom_model_data":1006021}, "model": "item/golden_axe/golden_mace"},
+		{"predicate": {"custom_model_data":1006031}, "model": "item/golden_axe/golden_war_axe"},
+		{"predicate": {"custom_model_data":1006041}, "model": "item/golden_axe/pitchfork_gold"}
+	]
+}

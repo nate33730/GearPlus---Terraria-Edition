@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld2",
+    "textures": {
+        "layer0": "item/wood_axe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1008001}, "model": "item/wooden_axe/pitchfork_wood"},
+		{"predicate": {"custom_model_data":1008011}, "model": "item/wooden_axe/terraforming axe"},
+		{"predicate": {"custom_model_data":1008021}, "model": "item/wooden_axe/wand"},
+		{"predicate": {"custom_model_data":1008031}, "model": "item/wooden_axe/wooden_mace"}
+	]
+}

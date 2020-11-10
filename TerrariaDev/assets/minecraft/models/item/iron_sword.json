@@ -1,0 +1,47 @@
+{
+    "parent": "item/handheld2",
+    "textures": {
+        "layer0": "item/iron_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1002001}, "model": "item/iron_sword/ancient_nords_gladius"},
+		{"predicate": {"custom_model_data":1002011}, "model": "item/iron_sword/biggoron_sword"},
+		{"predicate": {"custom_model_data":1002021}, "model": "item/iron_sword/blade_iron"},
+		{"predicate": {"custom_model_data":1002031}, "model": "item/iron_sword/challenger"},
+		{"predicate": {"custom_model_data":1002041}, "model": "item/iron_sword/claws"},
+		{"predicate": {"custom_model_data":1002051}, "model": "item/iron_sword/claymore"},
+		{"predicate": {"custom_model_data":1002061}, "model": "item/iron_sword/cosmic_sword"},
+		{"predicate": {"custom_model_data":1002071}, "model": "item/iron_sword/daito_iron"},
+		{"predicate": {"custom_model_data":1002081}, "model": "item/iron_sword/dwarven_sword"},
+		{"predicate": {"custom_model_data":1002091}, "model": "item/iron_sword/western_glaive"},
+		{"predicate": {"custom_model_data":1002101}, "model": "item/iron_sword/khopesh"},
+		{"predicate": {"custom_model_data":1002111}, "model": "item/iron_sword/falchion_longsword"},
+		{"predicate": {"custom_model_data":1002121}, "model": "item/iron_sword/gladius"},
+		{"predicate": {"custom_model_data":1002131}, "model": "item/iron_sword/iron_gladius"},
+		{"predicate": {"custom_model_data":1002141}, "model": "item/iron_sword/iron_scabbard"},
+		{"predicate": {"custom_model_data":1002151}, "model": "item/iron_sword/iron_scimitar"},
+		{"predicate": {"custom_model_data":1002161}, "model": "item/iron_sword/jagged_scabbard"},
+		{"predicate": {"custom_model_data":1002171}, "model": "item/iron_sword/kokiri_sword"},
+		{"predicate": {"custom_model_data":1002181}, "model": "item/iron_sword/eastern_glaive"},
+		{"predicate": {"custom_model_data":1002191}, "model": "item/iron_sword/kukri"},
+		{"predicate": {"custom_model_data":1002201}, "model": "item/iron_sword/long_sword_iron"},
+		{"predicate": {"custom_model_data":1002211}, "model": "item/iron_sword/mech_saber"},
+		{"predicate": {"custom_model_data":1002221}, "model": "item/iron_sword/needle"},
+		{"predicate": {"custom_model_data":1002231}, "model": "item/iron_sword/ninjato"},
+		{"predicate": {"custom_model_data":1002241}, "model": "item/iron_sword/ordon_sword"},
+		{"predicate": {"custom_model_data":1002251}, "model": "item/iron_sword/saber"},
+		{"predicate": {"custom_model_data":1002261}, "model": "item/iron_sword/saber_iron"},
+		{"predicate": {"custom_model_data":1002271}, "model": "item/iron_sword/scabbard"},
+		{"predicate": {"custom_model_data":1002281}, "model": "item/iron_sword/shortsword"},
+		{"predicate": {"custom_model_data":1002291}, "model": "item/iron_sword/skull_cutlass"},
+		{"predicate": {"custom_model_data":1002301}, "model": "item/iron_sword/tai_chi_longsword"},
+		{"predicate": {"custom_model_data":1002311}, "model": "item/iron_sword/two_handed_greatsword"},
+		{"predicate": {"custom_model_data":1002321}, "model": "item/iron_sword/vampire_dagger"},
+		{"predicate": {"custom_model_data":1002331}, "model": "item/iron_sword/vampire_sword"},
+		{"predicate": {"custom_model_data":1002341}, "model": "item/iron_sword/vampiric_scabbard"},
+		{"predicate": {"custom_model_data":1002351}, "model": "item/iron_sword/elven_sword"},
+	    {"predicate": {"custom_model_data":1002361}, "model": "item/iron_sword/iron_baseball_bat"},
+	    {"predicate": {"custom_model_data":1002371}, "model": "item/iron_sword/nightstick"}
+	]
+}

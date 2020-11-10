@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld2",
+    "textures": {
+        "layer0": "item/wood_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1004001}, "model": "item/wooden_sword/blade_wood"},
+		{"predicate": {"custom_model_data":1004011}, "model": "item/wooden_sword/daito_wood"},
+		{"predicate": {"custom_model_data":1004021}, "model": "item/wooden_sword/darknut_sword"},
+		{"predicate": {"custom_model_data":1004031}, "model": "item/wooden_sword/long_sword_wood"},
+		{"predicate": {"custom_model_data":1004041}, "model": "item/wooden_sword/saber_wood"},
+		{"predicate": {"custom_model_data":1004051}, "model": "item/wooden_sword/wooden_scimitar"},
+		{"predicate": {"custom_model_data":1004061}, "model": "item/wooden_sword/wooden_staff"},
+		{"predicate": {"custom_model_data":1004071}, "model": "item/wooden_sword/celtic_gladius"},
+		{"predicate": {"custom_model_data":1004081}, "model": "item/wooden_sword/spiked_baseball_bat"}
+	]
+}

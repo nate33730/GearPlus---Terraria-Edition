@@ -1,0 +1,5 @@
+# Don't track zip files on git
+/*.zip
+
+# Output of 7za generated from the build.bat script
+Tools/7za-output.txt

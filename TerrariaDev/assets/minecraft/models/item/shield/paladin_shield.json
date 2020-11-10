@@ -1,0 +1,6 @@
+{
+    "parent": "item/shield",
+	"textures": {
+        "layer0": "items/shield/paladin_shield"
+    }
+}

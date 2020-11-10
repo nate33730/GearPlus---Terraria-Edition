@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld2",
+    "textures": {
+        "layer0": "item/stone_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1003001}, "model": "item/stone_sword/blade_stone"},
+		{"predicate": {"custom_model_data":1003011}, "model": "item/stone_sword/daito_stone"},
+		{"predicate": {"custom_model_data":1003021}, "model": "item/stone_sword/long_sword_stone"},
+		{"predicate": {"custom_model_data":1003031}, "model": "item/stone_sword/saber_stone"},
+		{"predicate": {"custom_model_data":1003041}, "model": "item/stone_sword/stone_scimitar"}
+	]
+}

@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld2",
+    "textures": {
+        "layer0": "item/golden_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1001001}, "model": "item/golden_sword/blade_gold"},
+		{"predicate": {"custom_model_data":1001011}, "model": "item/golden_sword/ceremonial_gladius"},
+		{"predicate": {"custom_model_data":1001021}, "model": "item/golden_sword/daito_gold"},
+		{"predicate": {"custom_model_data":1001031}, "model": "item/golden_sword/golden_scimitar"},
+		{"predicate": {"custom_model_data":1001041}, "model": "item/golden_sword/jian_longsword"},
+		{"predicate": {"custom_model_data":1001051}, "model": "item/golden_sword/long_sword_gold"},
+		{"predicate": {"custom_model_data":1001061}, "model": "item/golden_sword/saber_gold"},
+		{"predicate": {"custom_model_data":1001071}, "model": "item/golden_sword/sunshard"},
+		{"predicate": {"custom_model_data":1001081}, "model": "item/golden_sword/the_golden_sword"}
+	]
+}

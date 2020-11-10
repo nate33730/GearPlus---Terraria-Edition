@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld2",
+    "textures": {
+        "layer0": "item/wood_shovel"
+    },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1014011}, "model": "item/wooden_shovel/terraforming_shovel"}
+    ]
+}
