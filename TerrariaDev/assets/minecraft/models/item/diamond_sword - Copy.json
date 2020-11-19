@@ -1,0 +1,41 @@
+{
+    "parent": "item/handheld2",
+    "textures": {
+        "layer0": "item/netherite_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1000001}, "model": "item/diamond_sword/charged_sword"},
+		{"predicate": {"custom_model_data":1000011}, "model": "item/diamond_sword/daito_ghost"},
+		{"predicate": {"custom_model_data":1000021}, "model": "item/diamond_sword/blade_diamond"},
+		{"predicate": {"custom_model_data":1000031}, "model": "item/diamond_sword/blue_powersword"},
+		{"predicate": {"custom_model_data":1000041}, "model": "item/diamond_sword/conqueror"},
+		{"predicate": {"custom_model_data":1000051}, "model": "item/diamond_sword/daito_diamond"},
+		{"predicate": {"custom_model_data":1000061}, "model": "item/diamond_sword/diamond_scimitar"},
+		{"predicate": {"custom_model_data":1000071}, "model": "item/diamond_sword/doombinder"},
+		{"predicate": {"custom_model_data":1000081}, "model": "item/diamond_sword/frostward"},
+		{"predicate": {"custom_model_data":1000091}, "model": "item/diamond_sword/glass_greatsword"},
+		{"predicate": {"custom_model_data":1000101}, "model": "item/diamond_sword/green_powersword"},
+		{"predicate": {"custom_model_data":1000111}, "model": "item/diamond_sword/lich_sword"},
+		{"predicate": {"custom_model_data":1000121}, "model": "item/diamond_sword/lightsaber_blue"},
+		{"predicate": {"custom_model_data":1000131}, "model": "item/diamond_sword/lightsaber_green"},
+		{"predicate": {"custom_model_data":1000141}, "model": "item/diamond_sword/lightsaber_purple"},
+		{"predicate": {"custom_model_data":1000151}, "model": "item/diamond_sword/lightsaber_red"},
+		{"predicate": {"custom_model_data":1000161}, "model": "item/diamond_sword/long_sword_diamond"},
+		{"predicate": {"custom_model_data":1000171}, "model": "item/diamond_sword/necrolight"},
+		{"predicate": {"custom_model_data":1000181}, "model": "item/diamond_sword/nightmare"},
+		{"predicate": {"custom_model_data":1000191}, "model": "item/diamond_sword/red_powersword"},
+		{"predicate": {"custom_model_data":1000201}, "model": "item/diamond_sword/requiem"},
+		{"predicate": {"custom_model_data":1000211}, "model": "item/diamond_sword/saber_diamond"},
+		{"predicate": {"custom_model_data":1000221}, "model": "item/diamond_sword/serenity"},
+		{"predicate": {"custom_model_data":1000231}, "model": "item/diamond_sword/soulshard"},
+		{"predicate": {"custom_model_data":1000241}, "model": "item/diamond_sword/diamond_gladius"},
+		{"predicate": {"custom_model_data":1000251}, "model": "item/diamond_sword/tempered_sword"},
+		{"predicate": {"custom_model_data":1000261}, "model": "item/diamond_sword/the_master_sword"},
+		{"predicate": {"custom_model_data":1000271}, "model": "item/diamond_sword/windweaver"},
+		{"predicate": {"custom_model_data":1000281}, "model": "item/diamond_sword/yellow_powersword"},
+		{"predicate": {"custom_model_data":1000291}, "model": "item/diamond_sword/dimensional_sword"},
+		{"predicate": {"custom_model_data":1000301}, "model": "item/diamond_sword/sonic_screwdriver"},
+		{"predicate": {"custom_model_data":1000311}, "model": "item/diamond_sword/volcano_staff"}
+	]
+}

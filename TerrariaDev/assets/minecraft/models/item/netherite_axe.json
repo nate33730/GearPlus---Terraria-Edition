@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld2",
+    "textures": {
+        "layer0": "item/netherite_axe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1005001}, "model": "item/diamond_axe/ancient_nords_war_axe"},
+		{"predicate": {"custom_model_data":1005011}, "model": "item/diamond_axe/battleaxe_diamond"},
+		{"predicate": {"custom_model_data":1005021}, "model": "item/diamond_axe/diamond_mace"},
+		{"predicate": {"custom_model_data":1005031}, "model": "item/diamond_axe/diamond_war_axe"},
+		{"predicate": {"custom_model_data":1005041}, "model": "item/diamond_axe/dimensional_axe"},
+		{"predicate": {"custom_model_data":1005051}, "model": "item/diamond_axe/elven_battleaxe"},
+		{"predicate": {"custom_model_data":1005061}, "model": "item/diamond_axe/pitchfork_diamond"}
+	]
+}
